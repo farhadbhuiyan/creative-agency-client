@@ -1,0 +1,32 @@
+
+.form-container{
+  font-family: 'Montserrat', sans-serif;
+  width: 570px;
+  height: 457px;
+  margin: 0 auto;
+  padding: 10px;
+  background: #FFFFFF;
+  border: 1px solid #ABABAB;
+  box-sizing: border-box;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.social-login{
+  display: flex;
+  border: 1px solid #C7C7C7;
+  border-radius: 57px;
+  width: 80%;
+  margin: auto;
+}
+.social-login p{
+  margin-top: 10px;
+  padding-left: 75px;
+}
+.social-login .google-icon{
+  width: 31px;
+  height: 31.74px;
+  margin: 9px;
+}

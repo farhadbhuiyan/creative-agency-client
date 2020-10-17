@@ -1,0 +1,42 @@
+.feedback-card{
+  width: 350px;
+  height: 212px;
+  padding: 20px;
+  border: 1px solid #BFBFBF;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+.feedback-card img{
+  width: 64px;
+  height: 64px;
+}
+.feedback-card h4{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  padding-left: 10px;
+}
+.feedback-card h5{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  padding-left: 10px;
+}
+.feedback-card p{
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.005em;
+  color: #707070;
+  padding-top: 10px;
+}
+.slick-slide {
+  margin: 0 1px;
+}
+.slick-list {
+  margin: 0 -1px; 
+}

@@ -1,0 +1,34 @@
+.section-heading{
+  margin: 200px 0 50px 0 !important;
+  font-family:Poppins,sans-serif;
+  font-weight: 600;
+  font-size: 34px;
+  line-height: 43px;
+  letter-spacing: 0.396px;
+  color: #2D2D2D;
+}
+.green-highlight{
+  color: #7AB259;
+}
+
+@media (max-width: 576px) {
+  .card-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center !important;
+  }
+  
+ }
+
+@media (max-width: 768px) { 
+  .card-container{
+    display: flex;
+    align-items: center !important;
+  }
+}
+
+@media (max-width: 992px) { 
+ 
+  
+
+ }

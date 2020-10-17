@@ -1,0 +1,19 @@
+.brand-logo{
+  width: 140px;
+  height: 36px;
+}
+@media (max-width: 576px) {
+  .brand-items img{
+    margin: 0 auto;
+    display: block;
+    padding: 5px;
+  }
+ }
+
+@media (max-width: 768px) { 
+  .brand-items img{
+    margin: 0 auto;
+    display: block;
+    padding: 5px;
+  }
+}
